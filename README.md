@@ -5,9 +5,9 @@ In this project you'll find:
 *   A presentation layer that contains an Activity (View) and a **ViewModel** per screen (or feature).
 *   Reactive UIs using **flows** and **View Binding**.
 *   retrofit2 for making network calls.
-*   **[Pagination] android lib for control loading data from remote server (https://developer.android.com/topic/libraries/architecture/paging?hl=en)
+*   **[Pagination](https://developer.android.com/topic/libraries/architecture/paging?hl=en) android lib for control loading data from remote server 
 *   A **data layer** with a repository and data sources (remote).
-*   **[Koin] for dependency injection as POC (https://insert-koin.io/)
+*   **[Koin](https://insert-koin.io/) for dependency injection as POC 
 
 ################################################################################
 # this app aims to show a simple POC of understanding hot day use android concepts
